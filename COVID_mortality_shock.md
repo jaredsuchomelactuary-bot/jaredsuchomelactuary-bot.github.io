@@ -6,6 +6,8 @@ In this page, we will look at public US data to attempt to answer this question.
 
 ![Over-65 Mortality Rates in USA](https://github.com/jaredsuchomelactuary-bot/jaredsuchomelactuary-bot.github.io/tree/main/IMAGE_SOURCE/65_plus_death_percentages.png)
 
+First, it's helpful to compare the year-over-year death rate of the population, vs. the year-over-year death rate of over-65-years-old. 
+
 ```
 This is code
 ```
