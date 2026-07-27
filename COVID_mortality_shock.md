@@ -4,7 +4,7 @@ The virus SARS-CoV-2 (or COVID-19) shocked the world. In 2020 the World Health O
 
 In this page, we will look at public US data to attempt to answer this question. We used the Death Counts by the Center for Disease Control and Prevention (CDC), and the deaths-by-age-and-year data found in the Human Mortality Database. Most traditional pension plans in the US set the "normal retirement" age at 65, and people aged 65+ had a 23-fold greater risk of death (Mueller AL), so we will be focusing on this age group primarily.
 
-![Over-65 Mortality Rates in USA](https://github.com/jaredsuchomelactuary-bot/jaredsuchomelactuary-bot.github.io/tree/main/IMAGE_SOURCE/65_plus_death_percentages.png)
+![Over-65 Mortality Rates in USA](IMAGE_SOURCE/deaths_over_65-1.png)
 
 First, it's helpful to compare the year-over-year death rate of the population, vs. the year-over-year death rate of over-65-years-old. 
 
